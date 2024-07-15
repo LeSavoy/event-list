@@ -22,7 +22,7 @@ Certifique-se de ter o Node.js e o Expo CLI instalados.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LeSavoy/event-list.git
+   git clone https://github.com/LeSavoy/event-list.git
    
 Tecnologias Utilizadas
 React Native
